@@ -90,6 +90,7 @@ Sahyapravashi/
 ├── public/             # Static files (HTML, CSS, Client-side JS)
 ├── images/             # Project assets and logos
 └── uploads/            # Dynamic image storage for forts/packages
+   ```
 
 ## 🤝 Contributing
 
