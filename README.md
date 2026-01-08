@@ -108,5 +108,5 @@ Distributed under the MIT License.
 
 ---
 <p align="center">
-  Developed with ❤️ by <a href="https://github.com/SwayamChougule">Swayam Chougule</a>
+  Developed  by <a href="https://github.com/SwayamChougule">Swayam Chougule</a>
 </p>
